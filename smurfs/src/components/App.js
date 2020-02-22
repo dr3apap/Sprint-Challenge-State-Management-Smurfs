@@ -1,4 +1,4 @@
-import React, { Component, useContext } from "react";
+import React, { Component } from "react";
 import "./App.css";
 import { SmurfProvider } from "../SmurffyContext/SmurfProvider";
 import AddSmurfs from "../SmurffyContext/AddSmurfs";
